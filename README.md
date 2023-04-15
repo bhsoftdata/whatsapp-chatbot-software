@@ -1,7 +1,11 @@
- <h4>What is Whats ChatBot Software ?</h4>
+Check software on below link
+
+https://codecanyon.net/item/whats-chatbot-automatic-response/44338851
+
+ <h4>What is Whatsapp ChatBot Software ?</h4>
             <hr class="notop">
             <p>
-                <strong>Whats ChatBot Software</strong> - is Advance Software with Unique Feature for send automatic response of whatsapp chat.If you are business owner , what to send response to your customer on whatsapp automatically as per there query.
+                <strong>Whatsapp ChatBot Software</strong> - is Advance Software with Unique Feature for send automatic response of whatsapp chat.If you are business owner , what to send response to your customer on whatsapp automatically as per there query.
 				
 
 <p>✅<strong>in Software you can create multiple rules for send automatic message like if you create Rule like If press 1 , Send Prduct Detail   , if press 2, send contact detail etc. <strong></p>
@@ -19,30 +23,6 @@
             <ul>
                 <li>Google Chrome Latest Version</li>
             </ul>
-
- <div class="page-header">
-                <h1>Installation Process </h1>
-                <hr class="notop">
-            </div>
-            <ul>
-			    <li>You will Recieve only Software. Code is not Included</li>
-			     <li>After Purchase Product  purchase code is your Licence code. if you face issue in license please email me at <a href="mailto:bhansalisoft781986@gmail.com">bhansalisoft781986@gmail.com</a>
-                   you can check what is Purchase Code from this link :<a href="https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-"> https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-</a>
-				</li>
-	           <li>After i Confirm your purchase Code , Please Unzip Main File and Run <b>AllinWhatsappSender.exe</b> and Register your Licence as per below Screen.</li>
-			       <br/>
-     			<img src="https://bhansalisoft.com/evantosnap/chatbot//01.png"></img>
-<ul>
-                  <li>Licence Email :   Registered Email.</li>
-				  <li>Registration Code :  Evanto Purchase Code.</li>
-				   <li>After Registration you can Use Software.</li>
-                </ul>
-
-<div class="page-header">
-                <h3>Getting Started</h3>
-                <hr class="notop">
-            </div>
-            <br>
             <h4>After Registration Licence , Start Software, software start with below screen</h4>
 			<img src="https://bhansalisoft.com/evantosnap/chatbot/12.png"></img>
  <ul>
